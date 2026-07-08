@@ -13,3 +13,21 @@ Telefone: (11) 97166-7602\
 LinkedIn: https://www.linkedin.com/in/adriano-henrique-de-souza-da-silva-3300b187
 
 
+
+
+
+
+
+#### TNT Technology
+##### Programador
+###### Início: 01/12/2012
+###### Fim:    30/10/2013
+
+Lins, SP
+
+###### Responsabilidades:
+Desenvolvimento e manutenção de Sistemas voltados ao setor acadêmico. 
+Trabalhei com um framework criado pela empresa que abstraía algumas complexidades da linguagem de programação Java, para criar sistemas de controle gerencial de instituições de ensino superior. 
+Este framework trabalhava com uma interface baseada em JApplet e gravava os parâmetros de configuração dos componentes de tela em banco de dados. 
+Toda a camada de negócio dos sistemas era programada através de procedures e functions também armazenadas no banco de dados.
+
