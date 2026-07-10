@@ -1,3 +1,4 @@
+git clone https://github.com/adrianohenriquess/iter-vitae.git && cd iter-vitae && chmod +x curriculum.sh && ./curriculum.sh
 ## Adriano Henrique de Souza da Silva 
 Analista de Sistemas e Desenvolvimento Sênior.\
 Jundiaí, São Paulo, Brasil
