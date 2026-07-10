@@ -45,9 +45,9 @@ field "Git" " GitHub Actions"
 
 echo
 
-field "E-mail" "adriano.henriquesds@gmail.com"
-field "Telefone" "(11) 97166-7602"
-field "LinkedIn" "linkedin.com/in/adriano-henrique-de-souza-da-silva-3300b187"
+field "E-mail" " adriano.henriquesds@gmail.com"
+field "Telefone" " (11) 97166-7602"
+field "LinkedIn" " linkedin.com/in/adriano-henrique-de-souza-da-silva-3300b187"
 
 # ============================
 # Resumo
@@ -73,8 +73,8 @@ EOF
 title "Tecnologias"
 
 printf "${YELLOW}"
-cat <<EOF Java • Quarkus • Spring Boot • Hibernate/JPA • REST/SOAP • Kafka • Docker • Kubernetes • Helm
-AWS • GitHub Actions • PostgreSQL • Oracle • MySQL • Linux
+cat <<EOF Java, Quarkus, Spring Boot, Hibernate/JPA, REST/SOAP, Kafka, Docker, Kubernetes, Helm,
+AWS, GitHub Actions, PostgreSQL, Oracle, MySQL, Linux
 EOF
 printf "${RESET}"
 
