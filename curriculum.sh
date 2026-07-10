@@ -31,6 +31,8 @@ field() {
 # ============================
 
 line
+figlet -f doom "Adriano Henrique"
+figlet -f doom "de Souza da Silva"
 printf "${CYAN}${BOLD}Adriano Henrique de Souza da Silva${RESET}\n"
 printf "${WHITE}Analista de Sistemas e Desenvolvimento Sênior${RESET}\n"
 printf "${GRAY}Jundiaí • São Paulo • Brasil${RESET}\n"
@@ -73,7 +75,7 @@ EOF
 title "Tecnologias"
 
 printf "${YELLOW}"
-printf "EOF Java, Quarkus, Spring Boot, Hibernate/JPA, REST/SOAP, Kafka, Docker, Kubernetes, Helm"
+printf "Java, Quarkus, Spring Boot, Hibernate/JPA, REST/SOAP, Kafka, Docker, Kubernetes, Helm"
 printf "AWS, GitHub Actions, PostgreSQL, Oracle, MySQL, Linux"
 printf "${RESET}"
 
