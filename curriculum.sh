@@ -73,9 +73,8 @@ EOF
 title "Tecnologias"
 
 printf "${YELLOW}"
-cat <<EOF Java, Quarkus, Spring Boot, Hibernate/JPA, REST/SOAP, Kafka, Docker, Kubernetes, Helm,
-AWS, GitHub Actions, PostgreSQL, Oracle, MySQL, Linux
-EOF
+printf "EOF Java, Quarkus, Spring Boot, Hibernate/JPA, REST/SOAP, Kafka, Docker, Kubernetes, Helm"
+printf "AWS, GitHub Actions, PostgreSQL, Oracle, MySQL, Linux"
 printf "${RESET}"
 
 # ============================
@@ -85,7 +84,7 @@ printf "${RESET}"
 title "Prime IT Solutions"
 
 field "Cargo" "Analista Programador"
-field "Período" "08/2014 - 12/2017"
+field "Período" " 08/2014 - 12/2017"
 
 cat <<EOF
 
@@ -116,18 +115,7 @@ EOF
 
 printf "${BLUE}Tecnologias:${RESET}\n"
 
-printf "%s\n" \
-"Java" \
-"JSF" \
-"EJB 3.1" \
-"CDI" \
-"Hibernate" \
-"JPA" \
-"REST" \
-"SOAP" \
-"Oracle" \
-"WildFly" \
-"WebSphere"
+printf "Java, JSF, EJB 3.1, CDI, Hibernate, JPA, REST, SOAP, Oracle, WildFly e WebSphere"
 
 # ============================
 # DataCon
@@ -136,7 +124,7 @@ printf "%s\n" \
 title "DataCon Consulting"
 
 field "Cargo" "Analista de Sistemas"
-field "Período" "11/2013 - 04/2014"
+field "Período" " 11/2013 - 04/2014"
 
 cat <<EOF
 
@@ -149,14 +137,7 @@ EOF
 
 printf "${BLUE}Tecnologias:${RESET}\n"
 
-printf "%s\n" \
-"Android" \
-"Java" \
-"REST" \
-"JSF" \
-"PrimeFaces" \
-"JPA" \
-"WildFly"
+printf "Android, Java, REST, JSF, PrimeFaces, JPA, WildFly"
 
 # ============================
 # TNT
@@ -165,7 +146,7 @@ printf "%s\n" \
 title "TNT Technology"
 
 field "Cargo" "Programador"
-field "Período" "12/2012 - 10/2013"
+field "Período" " 12/2012 - 10/2013"
 
 cat <<EOF
 
@@ -179,12 +160,7 @@ EOF
 
 printf "${BLUE}Tecnologias:${RESET}\n"
 
-printf "%s\n" \
-"Java Swing" \
-"JApplet" \
-"PostgreSQL" \
-"Procedures" \
-"Functions"
+printf "Java Swing, JApplet, PostgreSQL, Procedures, Functions"
 
 line
 printf "${GRAY}Fim do currículo${RESET}\n"
