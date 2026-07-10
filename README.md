@@ -13,6 +13,28 @@ Telefone: (11) 97166-7602\
 LinkedIn: https://www.linkedin.com/in/adriano-henrique-de-souza-da-silva-3300b187
 
 
+<br/>
+<br/>
+<br/>
+
+---
+
+#### DataCon Consulting
+##### Analista de Sistemas
+###### Início: 04/11/2013
+###### Fim:    30/04/2014
+
+Lins, SP
+
+###### Responsabilidades:
+Desenvolvimento de Software para gestão de academias e também software voltado para a área da saúde que visava acompanhamento de pacientes através de aplicativo desenvolvido para a plataforma Android.
+
+###### Detalhes da arquitetura.
+O Aplicativo desenvolvido para a plataforma Android realizava requisições ao servidor utilizando RESTFul Web Services. A aplicação Java de retaguarda foi desenvolvida com as seguintes tecnologias: 
+JSF, Primefaces, JPA e JasperReports, Servidor WildFly 10.
+
+
+
 
 <br/>
 <br/>
@@ -32,4 +54,7 @@ Desenvolvimento e manutenção de Sistemas voltados ao setor acadêmico. <br>
 Trabalhei com um framework criado pela empresa que abstraía algumas complexidades da linguagem de programação Java, para criar sistemas de controle gerencial de instituições de ensino superior. <br>
 Este framework trabalhava com uma interface baseada em JApplet e gravava os parâmetros de configuração dos componentes de tela em banco de dados. <br>
 Toda a camada de negócio dos sistemas era programada através de procedures e functions também armazenadas no banco de dados.
+
+###### Detalhes da arquitetura.
+Java para desktop (Swing - JApplet rodando no navegador), Procedures e Functions rodando dentro do banco de dados PostgreSQL.
 
