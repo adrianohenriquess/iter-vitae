@@ -30,20 +30,18 @@ field() {
 # Cabeçalho
 # ============================
 
-clear
-
 line
 printf "${CYAN}${BOLD}Adriano Henrique de Souza da Silva${RESET}\n"
 printf "${WHITE}Analista de Sistemas e Desenvolvimento Sênior${RESET}\n"
 printf "${GRAY}Jundiaí • São Paulo • Brasil${RESET}\n"
 line
 
-field "Experiência" "10+ anos"
+field "Experiência" "  10+ anos"
 field "Especialidade" "Java Backend | Arquitetura | APIs REST"
-field "DevOps" "Docker • Kubernetes • Helm • AWS"
-field "Cloud" "AWS • OpenShift"
-field "Banco" "PostgreSQL • Oracle • MySQL"
-field "Git" "GitHub Actions"
+field "DevOps" " Docker • Kubernetes • Helm • AWS"
+field "Cloud" " AWS • OpenShift"
+field "Banco" " PostgreSQL • Oracle • MySQL"
+field "Git" " GitHub Actions"
 
 echo
 
@@ -75,22 +73,8 @@ EOF
 title "Tecnologias"
 
 printf "${YELLOW}"
-cat <<EOF
-Java
-Quarkus
-Spring Boot
-Hibernate / JPA
-REST / SOAP
-Kafka
-Docker
-Kubernetes
-Helm
-AWS
-GitHub Actions
-PostgreSQL
-Oracle
-MySQL
-Linux
+cat <<EOF Java • Quarkus • Spring Boot • Hibernate/JPA • REST/SOAP • Kafka • Docker • Kubernetes • Helm
+AWS • GitHub Actions • PostgreSQL • Oracle • MySQL • Linux
 EOF
 printf "${RESET}"
 
