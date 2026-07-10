@@ -19,6 +19,38 @@ LinkedIn: https://www.linkedin.com/in/adriano-henrique-de-souza-da-silva-3300b18
 
 ---
 
+#### Prime IT Solutions
+##### Analista Programador
+###### Início: 01/08/2014
+###### Fim:    20/12/2017
+
+Barueri, SP
+
+###### Responsabilidades:
+###### Projeto Portal de Serviços
+Desenvolvemos uma ferramenta para integrar os serviços da Elo, atendendo credenciadoras, emissores e processadoras. Minha contribuição incluiu o desenvolvimento de diversas funcionalidades, entre as quais destaca-se a integração com serviços externos via WebService SOAP. Durante a implementação do sistema, foi necessário investigar e resolver problemas relacionados à integração com os ambientes dos clientes.
+
+###### Implementação de Funcionalidades para o Banco BNDES
+###### Projeto Operações
+Este sistema visa processar requisições de concessão de crédito para os clientes do banco. Minha participação no projeto se estendeu desde o início da contratação até outubro de 2016, durante o qual atuei ativamente na implantação da ferramenta, garantindo sua estabilização e comunicação eficaz com serviços externos, além de realizar adaptações nos ambientes de homologação, testes e produção.
+
+###### Projeto Garantias
+Este projeto também fez parte do consórcio, e contribuí na fase de implantação da ferramenta no cliente. A solução foi desenvolvida para o cadastro e análise das garantias necessárias para a concessão de crédito aos clientes do banco.
+
+###### Projeto IGC (Integrador Gerencial Contábil)
+Este software foi desenvolvido para o gerenciamento contábil de todos os projetos do consórcio, focando na liberação e contabilização de valores das demais ferramentas envolvidas.
+
+###### Detalhes da arquitetura.
+jQuery, JavaScript, JSF, RichFaces, JEE, EJB 3.1, CDI, Hibernate, JPA, Web Services REST, SOAP, JUnit 4, Oracle, WebSphere e WildFly.
+
+
+
+<br/>
+<br/>
+<br/>
+
+---
+
 #### DataCon Consulting
 ##### Analista de Sistemas
 ###### Início: 04/11/2013
