@@ -31,9 +31,7 @@ field() {
 # ============================
 
 line
-figlet -f doom "Adriano Henrique"
-figlet -f doom "de Souza da Silva"
-printf "${CYAN}${BOLD}Adriano Henrique de Souza da Silva${RESET}\n"
+figlet -w 999 "Adriano  Henrique  de  Souza  da  Silva"
 printf "${WHITE}Analista de Sistemas e Desenvolvimento Sênior${RESET}\n"
 printf "${GRAY}Jundiaí • São Paulo • Brasil${RESET}\n"
 line
