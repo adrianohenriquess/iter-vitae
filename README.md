@@ -20,6 +20,60 @@ LinkedIn: https://www.linkedin.com/in/adriano-henrique-de-souza-da-silva-3300b18
 
 ---
 
+#### Magna Sistemas Consultoria S.A.
+##### Analista Desenvolvedor Full Stack Java Sênior
+###### Início: 01/08/2019
+###### Fim:    30/05/2022
+
+São Paulo, SP
+
+###### Responsabilidades:
+###### Sistema de Licitações e Contratos
+<p align="justify">
+Desenvolvi API e interface para edição de documentos. Implementei integração com sistema antigo, garantindo a compatibilidade e segurança dos dados. A integração entre os sistemas foi realizada utilizando a mesma ferramenta de autenticação utilizada nos outros sistemas da instituição. Como um recurso adicional, implementamos a geração de logs em tabelas no banco de dados, registrando todas as ações dos usuários para fins de auditoria. 
+</p>
+
+###### Detalhes da arquitetura.
+<p align="justify">
+Spring Boot, Angular 9, jQuery, RESTful, JPA (Spring Data), Hibernate Envers, PostgreSQL como banco de dados, e ambiente de execução em Linux.
+</p>
+
+###### Sistema de Atos de Pessoal
+<p align="justify">
+Atuando como líder técnico, auxiliei 5 desenvolvedores na resolução de problemas técnicos e de negócio. Realizei manutenções em regras de negócio, garantindo a conformidade do sistema com as normas e legislações
+</p>
+
+###### Detalhes da arquitetura.
+<p align="justify">
+JSF, PrimeFaces, jQuery, EJB 3.1, JPA 2, WildFly 12, além de conhecimentos em XML e XSD para definição de estrutura de dados, com PostgreSQL como banco de dados e ambiente de execução em Linux.
+</p>
+
+###### Sistema de Concessões e PPPs
+<p align="justify">
+Participei da fase de concepção do projeto, definindo a estrutura e arquitetura do sistema. Implementei funcionalidades críticas para o sistema, garantindo sua confiabilidade.
+</p>
+
+###### Detalhes da arquitetura.
+<p align="justify">
+Quarkus e front-end em Angular 9, também operando em ambiente Linux.
+</p>
+
+###### Projeto da Porto Seguro
+<p align="justify">
+Neste projeto, desenvolvemos um software para garantir a conformidade da Porto Seguro com a Lei Geral de Proteção de Dados (LGPD). Para isso, foi criada uma rotina automatizada que permite a extração, consolidação e, quando solicitado pelo usuário, a exclusão de dados. A ferramenta precisou integrar-se a múltiplos bancos de dados e serviços de diversas áreas da empresa, realizando o processamento das informações de maneira eficiente e segura.
+</p>
+
+###### Detalhes da arquitetura.
+<p align="justify">
+Spring Batch, Spring Data (JPA), Web Services SOAP, além dos bancos de dados Oracle, PostgreSQL, Informix e SQL Server.
+</p>
+
+<br/>
+<br/>
+<br/>
+
+---
+
 #### Fundação Ezute
 ##### Desenvolvedor Pleno
 ###### Início: 01/03/2018
